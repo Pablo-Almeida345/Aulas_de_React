@@ -1,7 +1,13 @@
+import PrimeiroComponente from "./components/PrimeiroComponente"
+import SegundoComponente from "./components/SegundoComponente"
+
 function App() {
   return(
     <div>
-      <p>Olá</p>
+      <h1>Primeiro Componente</h1>
+
+      <PrimeiroComponente/>
+      <SegundoComponente/>
     </div>
   )
 }
