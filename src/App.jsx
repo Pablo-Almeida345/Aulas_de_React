@@ -1,5 +1,5 @@
-import PrimeiroComponente from "./components/PrimeiroComponente"
-import SegundoComponente from "./components/SegundoComponente"
+import { PrimeiroComponente } from "./components/PrimeiroComponente"
+import { SegundoComponente } from "./components/SegundoComponente"
 
 function App() {
   return(

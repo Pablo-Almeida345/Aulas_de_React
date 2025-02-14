@@ -1,9 +1,8 @@
-function SegundoComponente() {
-    return (
-        <div>
-            <h2>Segundo Componente</h2>
-        </div>
-    )
+export function SegundoComponente() {
+  return (
+    <div>
+      <h1>oi</h1>
+    </div>
+  )
 }
 
-export default SegundoComponente

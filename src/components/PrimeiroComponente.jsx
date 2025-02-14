@@ -1,9 +1,8 @@
-function PrimeiroComponente() {
-    return (
-        <div>
-            <h2>Primeiro Componente</h2>
-        </div>
-    )
+export  function PrimeiroComponente() {
+  return (
+    <div>
+      <h1>hugo</h1>
+    </div>
+  )
 }
 
-export default PrimeiroComponente
